@@ -5,403 +5,403 @@
     "-",
     {
       "name": "Ghostly Voices",
-      "description": "Daemonic darkly seductive voices whisper within Willpower yards; everyone who hears them must pass a Challenging(+0) Cool Test or gain 1 Corruption point."
+      "description": "Everyone within Willpower yards hears darkly seductive whispering of voices emanating from the Realm of Chaos. All sentient creatures must pass an Average (+0) Cool Test or gain 1 Corruption point."
     },
     {
       "name": "Ghostly Voices",
-      "description": "Daemonic darkly seductive voices whisper within Willpower yards; everyone who hears them must pass a Challenging(+0) Cool Test or gain 1 Corruption point."
+      "description": "Everyone within Willpower yards hears darkly seductive whispering of voices emanating from the Realm of Chaos. All sentient creatures must pass an Average (+0) Cool Test or gain 1 Corruption point."
     },
     {
       "name": "Ghostly Voices",
-      "description": "Daemonic darkly seductive voices whisper within Willpower yards; everyone who hears them must pass a Challenging(+0) Cool Test or gain 1 Corruption point."
+      "description": "Everyone within Willpower yards hears darkly seductive whispering of voices emanating from the Realm of Chaos. All sentient creatures must pass an Average (+0) Cool Test or gain 1 Corruption point."
     },
     {
       "name": "Ghostly Voices",
-      "description": "Daemonic darkly seductive voices whisper within Willpower yards; everyone who hears them must pass a Challenging(+0) Cool Test or gain 1 Corruption point."
+      "description": "Everyone within Willpower yards hears darkly seductive whispering of voices emanating from the Realm of Chaos. All sentient creatures must pass an Average (+0) Cool Test or gain 1 Corruption point."
     },
     {
       "name": "Ghostly Voices",
-      "description": "Daemonic darkly seductive voices whisper within Willpower yards; everyone who hears them must pass a Challenging(+0) Cool Test or gain 1 Corruption point."
+      "description": "Everyone within Willpower yards hears darkly seductive whispering of voices emanating from the Realm of Chaos. All sentient creatures must pass an Average (+0) Cool Test or gain 1 Corruption point."
     },
     {
-      "name": "Mindnumb",
-      "description": "Uncontrolled magic partially burns out your casting ability. Your skill advances in Language(Magick) and Channeling are halved for the next 24 hours."
+      "name": "Hexeyes",
+      "description": "Your eyes turn an unnatural colour associated with your Lore for <b><a class = 'chat-roll'>1d10</a></b> hours. While your eyes are discoloured, you have 1 Blinded Condition that cannot be resolved by any means."
     },
     {
-      "name": "Mindnumb",
-      "description": "Uncontrolled magic partially burns out your casting ability. Your skill advances in Language(Magick) and Channeling are halved for the next 24 hours."
+      "name": "Hexeyes",
+      "description": "Your eyes turn an unnatural colour associated with your Lore for <b><a class = 'chat-roll'>1d10</a></b> hours. While your eyes are discoloured, you have 1 Blinded Condition that cannot be resolved by any means."
     },
     {
-      "name": "Mindnumb",
-      "description": "Uncontrolled magic partially burns out your casting ability. Your skill advances in Language(Magick) and Channeling are halved for the next 24 hours."
+      "name": "Hexeyes",
+      "description": "Your eyes turn an unnatural colour associated with your Lore for <b><a class = 'chat-roll'>1d10</a></b> hours. While your eyes are discoloured, you have 1 Blinded Condition that cannot be resolved by any means."
     },
     {
-      "name": "Mindnumb",
-      "description": "Uncontrolled magic partially burns out your casting ability. Your skill advances in Language(Magick) and Channeling are halved for the next 24 hours."
+      "name": "Hexeyes",
+      "description": "Your eyes turn an unnatural colour associated with your Lore for <b><a class = 'chat-roll'>1d10</a></b> hours. While your eyes are discoloured, you have 1 Blinded Condition that cannot be resolved by any means."
     },
     {
-      "name": "Mindnumb",
-      "description": "Uncontrolled magic partially burns out your casting ability. Your skill advances in Language(Magick) and Channeling are halved for the next 24 hours."
-    },
-    {
-      "name": "Aethyric Shock",
-      "description": "You suffer <b><a class = 'chat-roll'>1d10</a></b> wounds ignoring Toughness Bonus or Armour: Every nail on your body blackens and wrenches free, the energies of your Wind scour you, your blood momentarily boils inside your body, etc. Pass an Average(+20) Endurance Test or gain a Stunned condition."
+      "name": "Hexeyes",
+      "description": "Your eyes turn an unnatural colour associated with your Lore for <b><a class = 'chat-roll'>1d10</a></b> hours. While your eyes are discoloured, you have 1 Blinded Condition that cannot be resolved by any means."
     },
     {
       "name": "Aethyric Shock",
-      "description": "You suffer <b><a class = 'chat-roll'>1d10</a></b> wounds ignoring Toughness Bonus or Armour: Every nail on your body blackens and wrenches free, the energies of your Wind scour you, your blood momentarily boils inside your body, etc. Pass an Average(+20) Endurance Test or gain a Stunned condition."
+      "description": "You suffer <b><a class = 'chat-roll'>1d10</a></b> wounds, ignoring your Toughness Bonus and Armour Points. Pass an Average (+20) Endurance Test, or also gain a Stunned Condition."
     },
     {
       "name": "Aethyric Shock",
-      "description": "You suffer <b><a class = 'chat-roll'>1d10</a></b> wounds ignoring Toughness Bonus or Armour: Every nail on your body blackens and wrenches free, the energies of your Wind scour you, your blood momentarily boils inside your body, etc. Pass an Average(+20) Endurance Test or gain a Stunned condition."
+      "description": "You suffer <b><a class = 'chat-roll'>1d10</a></b> wounds, ignoring your Toughness Bonus and Armour Points. Pass an Average (+20) Endurance Test, or also gain a Stunned Condition."
     },
     {
       "name": "Aethyric Shock",
-      "description": "You suffer <b><a class = 'chat-roll'>1d10</a></b> wounds ignoring Toughness Bonus or Armour: Every nail on your body blackens and wrenches free, the energies of your Wind scour you, your blood momentarily boils inside your body, etc. Pass an Average(+20) Endurance Test or gain a Stunned condition."
+      "description": "You suffer <b><a class = 'chat-roll'>1d10</a></b> wounds, ignoring your Toughness Bonus and Armour Points. Pass an Average (+20) Endurance Test, or also gain a Stunned Condition."
     },
     {
       "name": "Aethyric Shock",
-      "description": "You suffer <b><a class = 'chat-roll'>1d10</a></b> wounds ignoring Toughness Bonus or Armour: Every nail on your body blackens and wrenches free, the energies of your Wind scour you, your blood momentarily boils inside your body, etc. Pass an Average(+20) Endurance Test or gain a Stunned condition."
+      "description": "You suffer <b><a class = 'chat-roll'>1d10</a></b> wounds, ignoring your Toughness Bonus and Armour Points. Pass an Average (+20) Endurance Test, or also gain a Stunned Condition."
     },
     {
-      "name": "Following Winds",
-      "description": "Your Wind follows you for the next <b><a class = 'chat-roll'>1d10</a></b> hours. This is noticeable and difficult to explain to any suspicious bystanders. Shyish might cause plant life nearby you to wither and die, Aqshy the eruption of small fires, etc."
+      "name": "Aethyric Shock",
+      "description": "You suffer <b><a class = 'chat-roll'>1d10</a></b> wounds, ignoring your Toughness Bonus and Armour Points. Pass an Average (+20) Endurance Test, or also gain a Stunned Condition."
     },
     {
-      "name": "Following Winds",
-      "description": "Your Wind follows you for the next <b><a class = 'chat-roll'>1d10</a></b> hours. This is noticeable and difficult to explain to any suspicious bystanders. Shyish might cause plant life nearby you to wither and die, Aqshy the eruption of small fires, etc."
+      "name": "Death Walker",
+      "description": "Your footsteps leave death in their wake. For the next <b><a class = 'chat-roll'>1d10</a></b> hours, any plant life near you withers and dies."
     },
     {
-      "name": "Following Winds",
-      "description": "Your Wind follows you for the next <b><a class = 'chat-roll'>1d10</a></b> hours. This is noticeable and difficult to explain to any suspicious bystanders. Shyish might cause plant life nearby you to wither and die, Aqshy the eruption of small fires, etc."
+      "name": "Death Walker",
+      "description": "Your footsteps leave death in their wake. For the next <b><a class = 'chat-roll'>1d10</a></b> hours, any plant life near you withers and dies."
     },
     {
-      "name": "Following Winds",
-      "description": "Your Wind follows you for the next <b><a class = 'chat-roll'>1d10</a></b> hours. This is noticeable and difficult to explain to any suspicious bystanders. Shyish might cause plant life nearby you to wither and die, Aqshy the eruption of small fires, etc."
+      "name": "Death Walker",
+      "description": "Your footsteps leave death in their wake. For the next <b><a class = 'chat-roll'>1d10</a></b> hours, any plant life near you withers and dies."
     },
     {
-      "name": "Following Winds",
-      "description": "Your Wind follows you for the next <b><a class = 'chat-roll'>1d10</a></b> hours. This is noticeable and difficult to explain to any suspicious bystanders. Shyish might cause plant life nearby you to wither and die, Aqshy the eruption of small fires, etc."
+      "name": "Death Walker",
+      "description": "Your footsteps leave death in their wake. For the next <b><a class = 'chat-roll'>1d10</a></b> hours, any plant life near you withers and dies."
     },
     {
-      "name": "Aethyric Attack",
-      "description": "You suffer 1 Critical Wound to a random hit location as uncontrolled magical energies ravage your form."
+      "name": "Death Walker",
+      "description": "Your footsteps leave death in their wake. For the next <b><a class = 'chat-roll'>1d10</a></b> hours, any plant life near you withers and dies."
     },
     {
-      "name": "Aethyric Attack",
-      "description": "You suffer 1 Critical Wound to a random hit location as uncontrolled magical energies ravage your form."
+      "name": "Intestinal Rebellion",
+      "description": "Your bowels move uncontrollably, and you soil yourself. Gain 1 Fatigued Condition, which cannot be removed until you can change your clothes and clean yourself up."
     },
     {
-      "name": "Aethyric Attack",
-      "description": "You suffer 1 Critical Wound to a random hit location as uncontrolled magical energies ravage your form."
+      "name": "Intestinal Rebellion",
+      "description": "Your bowels move uncontrollably, and you soil yourself. Gain 1 Fatigued Condition, which cannot be removed until you can change your clothes and clean yourself up."
     },
     {
-      "name": "Aethyric Attack",
-      "description": "You suffer 1 Critical Wound to a random hit location as uncontrolled magical energies ravage your form."
+      "name": "Intestinal Rebellion",
+      "description": "Your bowels move uncontrollably, and you soil yourself. Gain 1 Fatigued Condition, which cannot be removed until you can change your clothes and clean yourself up."
     },
     {
-      "name": "Aethyric Attack",
-      "description": "You suffer 1 Critical Wound to a random hit location as uncontrolled magical energies ravage your form."
+      "name": "Intestinal Rebellion",
+      "description": "Your bowels move uncontrollably, and you soil yourself. Gain 1 Fatigued Condition, which cannot be removed until you can change your clothes and clean yourself up."
     },
     {
-      "name": "Soulfire",
-      "description": "Gain 1d5 Ablaze conditions as you are wreathed in unholy flames."
-    },
-    {
-      "name": "Soulfire",
-      "description": "Gain 1d5 Ablaze conditions as you are wreathed in unholy flames."
+      "name": "Intestinal Rebellion",
+      "description": "Your bowels move uncontrollably, and you soil yourself. Gain 1 Fatigued Condition, which cannot be removed until you can change your clothes and clean yourself up."
     },
     {
       "name": "Soulfire",
-      "description": "Gain 1d5 Ablaze conditions as you are wreathed in unholy flames."
+      "description": "Gain an Ablaze Condition, as you are wreathed in unholy flames with a colour associated with your Lore."
     },
     {
       "name": "Soulfire",
-      "description": "Gain 1d5 Ablaze conditions as you are wreathed in unholy flames."
+      "description": "Gain an Ablaze Condition, as you are wreathed in unholy flames with a colour associated with your Lore."
     },
     {
       "name": "Soulfire",
-      "description": "Gain 1d5 Ablaze conditions as you are wreathed in unholy flames."
+      "description": "Gain an Ablaze Condition, as you are wreathed in unholy flames with a colour associated with your Lore."
     },
     {
-      "name": "Voice of Madness",
-      "description": "You gabble unintelligibly for <b><a class = 'chat-roll'>1d10</a></b> rounds. During this time, you cannot communicate verbally or make Casting tests."
+      "name": "Soulfire",
+      "description": "Gain an Ablaze Condition, as you are wreathed in unholy flames with a colour associated with your Lore."
     },
     {
-      "name": "Voice of Madness",
-      "description": "You gabble unintelligibly for <b><a class = 'chat-roll'>1d10</a></b> rounds. During this time, you cannot communicate verbally or make Casting tests."
+      "name": "Soulfire",
+      "description": "Gain an Ablaze Condition, as you are wreathed in unholy flames with a colour associated with your Lore."
     },
     {
-      "name": "Voice of Madness",
-      "description": "You gabble unintelligibly for <b><a class = 'chat-roll'>1d10</a></b> rounds. During this time, you cannot communicate verbally or make Casting tests."
+      "name": "Speak in Tongues",
+      "description": "You gabble unintelligibly for <b><a class = 'chat-roll'>1d10</a></b> rounds. During this time, you cannot communicate verbally, or make any Casting Tests, although you may otherwise act normally."
     },
     {
-      "name": "Voice of Madness",
-      "description": "You gabble unintelligibly for <b><a class = 'chat-roll'>1d10</a></b> rounds. During this time, you cannot communicate verbally or make Casting tests."
+      "name": "Speak in Tongues",
+      "description": "You gabble unintelligibly for <b><a class = 'chat-roll'>1d10</a></b> rounds. During this time, you cannot communicate verbally, or make any Casting Tests, although you may otherwise act normally."
     },
     {
-      "name": "Voice of Madness",
-      "description": "You gabble unintelligibly for <b><a class = 'chat-roll'>1d10</a></b> rounds. During this time, you cannot communicate verbally or make Casting tests."
+      "name": "Speak in Tongues",
+      "description": "You gabble unintelligibly for <b><a class = 'chat-roll'>1d10</a></b> rounds. During this time, you cannot communicate verbally, or make any Casting Tests, although you may otherwise act normally."
     },
     {
-      "name": "Chaotic Winds",
-      "description": "Chaos blows through your spell ingredients. Any spell cast using them suffers from Malignant Influence."
+      "name": "Speak in Tongues",
+      "description": "You gabble unintelligibly for <b><a class = 'chat-roll'>1d10</a></b> rounds. During this time, you cannot communicate verbally, or make any Casting Tests, although you may otherwise act normally."
     },
     {
-      "name": "Chaotic Winds",
-      "description": "Chaos blows through your spell ingredients. Any spell cast using them suffers from Malignant Influence."
+      "name": "Speak in Tongues",
+      "description": "You gabble unintelligibly for <b><a class = 'chat-roll'>1d10</a></b> rounds. During this time, you cannot communicate verbally, or make any Casting Tests, although you may otherwise act normally."
     },
     {
-      "name": "Chaotic Winds",
-      "description": "Chaos blows through your spell ingredients. Any spell cast using them suffers from Malignant Influence."
+      "name": "Swarmed",
+      "description": "You are engaged by a swarm of aethyric Rats, Giant Spiders, Snakes, or similar (GM's choice). Use the standard profiles for the relevant creature type, adding the Swarm Creature Trait. After <b><a class = 'chat-roll'>1d10</a></b> rounds, if not yet destroyed, the swarm retreats."
     },
     {
-      "name": "Chaotic Winds",
-      "description": "Chaos blows through your spell ingredients. Any spell cast using them suffers from Malignant Influence."
+      "name": "Swarmed",
+      "description": "You are engaged by a swarm of aethyric Rats, Giant Spiders, Snakes, or similar (GM's choice). Use the standard profiles for the relevant creature type, adding the Swarm Creature Trait. After <b><a class = 'chat-roll'>1d10</a></b> rounds, if not yet destroyed, the swarm retreats."
     },
     {
-      "name": "Chaotic Winds",
-      "description": "Chaos blows through your spell ingredients. Any spell cast using them suffers from Malignant Influence."
+      "name": "Swarmed",
+      "description": "You are engaged by a swarm of aethyric Rats, Giant Spiders, Snakes, or similar (GM's choice). Use the standard profiles for the relevant creature type, adding the Swarm Creature Trait. After <b><a class = 'chat-roll'>1d10</a></b> rounds, if not yet destroyed, the swarm retreats."
     },
     {
-      "name": "Ragdoll",
-      "description": "You levitate briefly before being flung <b><a class = 'chat-roll'>1d10</a></b> yards through the air in a random direction, taking <b><a class = 'chat-roll'>1d10</a></b> wounds ignoring Armour and falling Prone on landing."
+      "name": "Swarmed",
+      "description": "You are engaged by a swarm of aethyric Rats, Giant Spiders, Snakes, or similar (GM's choice). Use the standard profiles for the relevant creature type, adding the Swarm Creature Trait. After <b><a class = 'chat-roll'>1d10</a></b> rounds, if not yet destroyed, the swarm retreats."
     },
     {
-      "name": "Ragdoll",
-      "description": "You levitate briefly before being flung <b><a class = 'chat-roll'>1d10</a></b> yards through the air in a random direction, taking <b><a class = 'chat-roll'>1d10</a></b> wounds ignoring Armour and falling Prone on landing."
-    },
-    {
-      "name": "Ragdoll",
-      "description": "You levitate briefly before being flung <b><a class = 'chat-roll'>1d10</a></b> yards through the air in a random direction, taking <b><a class = 'chat-roll'>1d10</a></b> wounds ignoring Armour and falling Prone on landing."
+      "name": "Swarmed",
+      "description": "You are engaged by a swarm of aethyric Rats, Giant Spiders, Snakes, or similar (GM's choice). Use the standard profiles for the relevant creature type, adding the Swarm Creature Trait. After <b><a class = 'chat-roll'>1d10</a></b> rounds, if not yet destroyed, the swarm retreats."
     },
     {
       "name": "Ragdoll",
-      "description": "You levitate briefly before being flung <b><a class = 'chat-roll'>1d10</a></b> yards through the air in a random direction, taking <b><a class = 'chat-roll'>1d10</a></b> wounds ignoring Armour and falling Prone on landing."
+      "description": "You are flung <b><a class = 'chat-roll'>1d10</a></b> yards through the air in a random direction, taking <b><a class = 'chat-roll'>1d10</a></b> wounds on landing, ignoring Armour Points, and receiving the Prone Condition."
     },
     {
       "name": "Ragdoll",
-      "description": "You levitate briefly before being flung <b><a class = 'chat-roll'>1d10</a></b> yards through the air in a random direction, taking <b><a class = 'chat-roll'>1d10</a></b> wounds ignoring Armour and falling Prone on landing."
+      "description": "You are flung <b><a class = 'chat-roll'>1d10</a></b> yards through the air in a random direction, taking <b><a class = 'chat-roll'>1d10</a></b> wounds on landing, ignoring Armour Points, and receiving the Prone Condition."
     },
     {
-      "name": "Limbfrozen",
-      "description": "One randomly determined limb is frozen in place for <b><a class = 'chat-roll'>1d10</a></b> hours. It is useless as if amputated."
+      "name": "Ragdoll",
+      "description": "You are flung <b><a class = 'chat-roll'>1d10</a></b> yards through the air in a random direction, taking <b><a class = 'chat-roll'>1d10</a></b> wounds on landing, ignoring Armour Points, and receiving the Prone Condition."
     },
     {
-      "name": "Limbfrozen",
-      "description": "One randomly determined limb is frozen in place for <b><a class = 'chat-roll'>1d10</a></b> hours. It is useless as if amputated."
+      "name": "Ragdoll",
+      "description": "You are flung <b><a class = 'chat-roll'>1d10</a></b> yards through the air in a random direction, taking <b><a class = 'chat-roll'>1d10</a></b> wounds on landing, ignoring Armour Points, and receiving the Prone Condition."
     },
     {
-      "name": "Limbfrozen",
-      "description": "One randomly determined limb is frozen in place for <b><a class = 'chat-roll'>1d10</a></b> hours. It is useless as if amputated."
+      "name": "Ragdoll",
+      "description": "You are flung <b><a class = 'chat-roll'>1d10</a></b> yards through the air in a random direction, taking <b><a class = 'chat-roll'>1d10</a></b> wounds on landing, ignoring Armour Points, and receiving the Prone Condition."
     },
     {
-      "name": "Limbfrozen",
-      "description": "One randomly determined limb is frozen in place for <b><a class = 'chat-roll'>1d10</a></b> hours. It is useless as if amputated."
+      "name": "Limb Frozen",
+      "description": "One limb (randomly determined) is frozen in place for <b><a class = 'chat-roll'>1d10</a></b> hours. The limb is useless, as if it had been Amputated."
     },
     {
-      "name": "Limbfrozen",
-      "description": "One randomly determined limb is frozen in place for <b><a class = 'chat-roll'>1d10</a></b> hours. It is useless as if amputated."
+      "name": "Limb Frozen",
+      "description": "One limb (randomly determined) is frozen in place for <b><a class = 'chat-roll'>1d10</a></b> hours. The limb is useless, as if it had been Amputated."
     },
     {
-      "name": "Craven Familiar",
-      "description": "A lesser daemon, such as an Imp, appears from the Aethyr, beckoned by your flawed casting."
+      "name": "Limb Frozen",
+      "description": "One limb (randomly determined) is frozen in place for <b><a class = 'chat-roll'>1d10</a></b> hours. The limb is useless, as if it had been Amputated."
     },
     {
-      "name": "Craven Familiar",
-      "description": "A lesser daemon, such as an Imp, appears from the Aethyr, beckoned by your flawed casting."
+      "name": "Limb Frozen",
+      "description": "One limb (randomly determined) is frozen in place for <b><a class = 'chat-roll'>1d10</a></b> hours. The limb is useless, as if it had been Amputated."
     },
     {
-      "name": "Craven Familiar",
-      "description": "A lesser daemon, such as an Imp, appears from the Aethyr, beckoned by your flawed casting."
+      "name": "Limb Frozen",
+      "description": "One limb (randomly determined) is frozen in place for <b><a class = 'chat-roll'>1d10</a></b> hours. The limb is useless, as if it had been Amputated."
     },
     {
-      "name": "Craven Familiar",
-      "description": "A lesser daemon, such as an Imp, appears from the Aethyr, beckoned by your flawed casting."
+      "name": "Darkling Sight",
+      "description": "You lose the benefit of the Second Sight Talent for <b><a class = 'chat-roll'>1d10</a></b> hours. Channelling Tests also suffer a penalty of -20 for the duration."
     },
     {
-      "name": "Craven Familiar",
-      "description": "A lesser daemon, such as an Imp, appears from the Aethyr, beckoned by your flawed casting."
+      "name": "Darkling Sight",
+      "description": "You lose the benefit of the Second Sight Talent for <b><a class = 'chat-roll'>1d10</a></b> hours. Channelling Tests also suffer a penalty of -20 for the duration."
     },
     {
-      "name": "Chaotic Foresight",
-      "description": "The Winds bring dark visions of the future. You gain a pool of <b><a class = 'chat-roll'>1d10</a></b> temporary Fortune points. Every time you spend one of these points, gain 1 Corruption point. These points last until the end of the session."
+      "name": "Darkling Sight",
+      "description": "You lose the benefit of the Second Sight Talent for <b><a class = 'chat-roll'>1d10</a></b> hours. Channelling Tests also suffer a penalty of -20 for the duration."
     },
     {
-      "name": "Chaotic Foresight",
-      "description": "The Winds bring dark visions of the future. You gain a pool of <b><a class = 'chat-roll'>1d10</a></b> temporary Fortune points. Every time you spend one of these points, gain 1 Corruption point. These points last until the end of the session."
+      "name": "Darkling Sight",
+      "description": "You lose the benefit of the Second Sight Talent for <b><a class = 'chat-roll'>1d10</a></b> hours. Channelling Tests also suffer a penalty of -20 for the duration."
     },
     {
-      "name": "Chaotic Foresight",
-      "description": "The Winds bring dark visions of the future. You gain a pool of <b><a class = 'chat-roll'>1d10</a></b> temporary Fortune points. Every time you spend one of these points, gain 1 Corruption point. These points last until the end of the session."
-    },
-    {
-      "name": "Chaotic Foresight",
-      "description": "The Winds bring dark visions of the future. You gain a pool of <b><a class = 'chat-roll'>1d10</a></b> temporary Fortune points. Every time you spend one of these points, gain 1 Corruption point. These points last until the end of the session."
+      "name": "Darkling Sight",
+      "description": "You lose the benefit of the Second Sight Talent for <b><a class = 'chat-roll'>1d10</a></b> hours. Channelling Tests also suffer a penalty of -20 for the duration."
     },
     {
       "name": "Chaotic Foresight",
-      "description": "The Winds bring dark visions of the future. You gain a pool of <b><a class = 'chat-roll'>1d10</a></b> temporary Fortune points. Every time you spend one of these points, gain 1 Corruption point. These points last until the end of the session."
+      "description": "Gain a bonus pool of <b><a class = 'chat-roll'>1d10</a></b> Fortune points (this may take you beyond your natural limit). Every time you spend one of these points, gain 1 Corruption point. Any of these points remaining at the end of the session are lost."
     },
     {
-      "name": "Wracked",
-      "description": "You are overwhelmed with pain, taking 1 Stunned condition. Make a Very Hard(-30) Endurance test or fall Prone."
+      "name": "Chaotic Foresight",
+      "description": "Gain a bonus pool of <b><a class = 'chat-roll'>1d10</a></b> Fortune points (this may take you beyond your natural limit). Every time you spend one of these points, gain 1 Corruption point. Any of these points remaining at the end of the session are lost."
     },
     {
-      "name": "Wracked",
-      "description": "You are overwhelmed with pain, taking 1 Stunned condition. Make a Very Hard(-30) Endurance test or fall Prone."
+      "name": "Chaotic Foresight",
+      "description": "Gain a bonus pool of <b><a class = 'chat-roll'>1d10</a></b> Fortune points (this may take you beyond your natural limit). Every time you spend one of these points, gain 1 Corruption point. Any of these points remaining at the end of the session are lost."
     },
     {
-      "name": "Wracked",
-      "description": "You are overwhelmed with pain, taking 1 Stunned condition. Make a Very Hard(-30) Endurance test or fall Prone."
+      "name": "Chaotic Foresight",
+      "description": "Gain a bonus pool of <b><a class = 'chat-roll'>1d10</a></b> Fortune points (this may take you beyond your natural limit). Every time you spend one of these points, gain 1 Corruption point. Any of these points remaining at the end of the session are lost."
     },
     {
-      "name": "Wracked",
-      "description": "You are overwhelmed with pain, taking 1 Stunned condition. Make a Very Hard(-30) Endurance test or fall Prone."
+      "name": "Chaotic Foresight",
+      "description": "Gain a bonus pool of <b><a class = 'chat-roll'>1d10</a></b> Fortune points (this may take you beyond your natural limit). Every time you spend one of these points, gain 1 Corruption point. Any of these points remaining at the end of the session are lost."
     },
     {
-      "name": "Wracked",
-      "description": "You are overwhelmed with pain, taking 1 Stunned condition. Make a Very Hard(-30) Endurance test or fall Prone."
+      "name": "Levititation",
+      "description": "You are borne aloft on the Winds of Magic, floating <b><a class = 'chat-roll'>1d10</a></b> yards above the ground for <b><a class = 'chat-roll'>1d10</a></b> minutes. Other characters may forcibly move you, and you may move using spells, wings or similar, but will continually return to your levitating position if otherwise left alone. Refer to the Falling rules (see page 166) for what happens when Levitation ends."
     },
     {
-      "name": "Power Drain",
-      "description": "Your power surges like a breaking dam, bleeding fully into the Winds. You lose your ability to cast magic for the next <b><a class = 'chat-roll'>1d10</a></b> minutes. Your lost energy causes minor effects of Witchery as it travels."
+      "name": "Levititation",
+      "description": "You are borne aloft on the Winds of Magic, floating <b><a class = 'chat-roll'>1d10</a></b> yards above the ground for <b><a class = 'chat-roll'>1d10</a></b> minutes. Other characters may forcibly move you, and you may move using spells, wings or similar, but will continually return to your levitating position if otherwise left alone. Refer to the Falling rules (see page 166) for what happens when Levitation ends."
     },
     {
-      "name": "Power Drain",
-      "description": "Your power surges like a breaking dam, bleeding fully into the Winds. You lose your ability to cast magic for the next <b><a class = 'chat-roll'>1d10</a></b> minutes. Your lost energy causes minor effects of Witchery as it travels."
+      "name": "Levititation",
+      "description": "You are borne aloft on the Winds of Magic, floating <b><a class = 'chat-roll'>1d10</a></b> yards above the ground for <b><a class = 'chat-roll'>1d10</a></b> minutes. Other characters may forcibly move you, and you may move using spells, wings or similar, but will continually return to your levitating position if otherwise left alone. Refer to the Falling rules (see page 166) for what happens when Levitation ends."
     },
     {
-      "name": "Power Drain",
-      "description": "Your power surges like a breaking dam, bleeding fully into the Winds. You lose your ability to cast magic for the next <b><a class = 'chat-roll'>1d10</a></b> minutes. Your lost energy causes minor effects of Witchery as it travels."
+      "name": "Levititation",
+      "description": "You are borne aloft on the Winds of Magic, floating <b><a class = 'chat-roll'>1d10</a></b> yards above the ground for <b><a class = 'chat-roll'>1d10</a></b> minutes. Other characters may forcibly move you, and you may move using spells, wings or similar, but will continually return to your levitating position if otherwise left alone. Refer to the Falling rules (see page 166) for what happens when Levitation ends."
     },
     {
-      "name": "Power Drain",
-      "description": "Your power surges like a breaking dam, bleeding fully into the Winds. You lose your ability to cast magic for the next <b><a class = 'chat-roll'>1d10</a></b> minutes. Your lost energy causes minor effects of Witchery as it travels."
+      "name": "Levititation",
+      "description": "You are borne aloft on the Winds of Magic, floating <b><a class = 'chat-roll'>1d10</a></b> yards above the ground for <b><a class = 'chat-roll'>1d10</a></b> minutes. Other characters may forcibly move you, and you may move using spells, wings or similar, but will continually return to your levitating position if otherwise left alone. Refer to the Falling rules (see page 166) for what happens when Levitation ends."
     },
     {
-      "name": "Power Drain",
-      "description": "Your power surges like a breaking dam, bleeding fully into the Winds. You lose your ability to cast magic for the next <b><a class = 'chat-roll'>1d10</a></b> minutes. Your lost energy causes minor effects of Witchery as it travels."
+      "name": "Regurgitation",
+      "description": "You spew uncontrollably, throwing up far more foul-smelling vomitus than your body can possibly contain. Gain the Stunned Condition, which lasts for <b><a class = 'chat-roll'>1d10</a></b> Rounds."
     },
     {
-      "name": "Suffocation",
-      "description": "You immediately begin to Suffocate as your throat swells, is suddenly clogged with blood or pus, or your tongue momentarily stretches back down your throat, etc."
+      "name": "Regurgitation",
+      "description": "You spew uncontrollably, throwing up far more foul-smelling vomitus than your body can possibly contain. Gain the Stunned Condition, which lasts for <b><a class = 'chat-roll'>1d10</a></b> Rounds."
     },
     {
-      "name": "Suffocation",
-      "description": "You immediately begin to Suffocate as your throat swells, is suddenly clogged with blood or pus, or your tongue momentarily stretches back down your throat, etc."
+      "name": "Regurgitation",
+      "description": "You spew uncontrollably, throwing up far more foul-smelling vomitus than your body can possibly contain. Gain the Stunned Condition, which lasts for <b><a class = 'chat-roll'>1d10</a></b> Rounds."
     },
     {
-      "name": "Suffocation",
-      "description": "You immediately begin to Suffocate as your throat swells, is suddenly clogged with blood or pus, or your tongue momentarily stretches back down your throat, etc."
+      "name": "Regurgitation",
+      "description": "You spew uncontrollably, throwing up far more foul-smelling vomitus than your body can possibly contain. Gain the Stunned Condition, which lasts for <b><a class = 'chat-roll'>1d10</a></b> Rounds."
     },
     {
-      "name": "Suffocation",
-      "description": "You immediately begin to Suffocate as your throat swells, is suddenly clogged with blood or pus, or your tongue momentarily stretches back down your throat, etc."
+      "name": "Regurgitation",
+      "description": "You spew uncontrollably, throwing up far more foul-smelling vomitus than your body can possibly contain. Gain the Stunned Condition, which lasts for <b><a class = 'chat-roll'>1d10</a></b> Rounds."
     },
     {
-      "name": "Suffocation",
-      "description": "You immediately begin to Suffocate as your throat swells, is suddenly clogged with blood or pus, or your tongue momentarily stretches back down your throat, etc."
+      "name": "Chaos Quake",
+      "description": "All creatures within <b><a class = 'chat-roll'>1d10</a></b>0 yards must pass an Average (+0) Athletics Test or gain the Prone Condition."
     },
     {
-      "name": "Aethyric Feedback",
-      "description": "Magic surges around you, causing fearsome stigmata. Everyone within a number of yards equal to your Willpower suffers 1 Wound and must make a Challenging(+0) Cool Test or take a Broken Condition. If there are no other creatures within this distance, you immediately suffer 2d10 Wounds."
+      "name": "Chaos Quake",
+      "description": "All creatures within <b><a class = 'chat-roll'>1d10</a></b>0 yards must pass an Average (+0) Athletics Test or gain the Prone Condition."
     },
     {
-      "name": "Aethyric Feedback",
-      "description": "Magic surges around you, causing fearsome stigmata. Everyone within a number of yards equal to your Willpower suffers 1 Wound and must make a Challenging(+0) Cool Test or take a Broken Condition. If there are no other creatures within this distance, you immediately suffer 2d10 Wounds."
+      "name": "Chaos Quake",
+      "description": "All creatures within <b><a class = 'chat-roll'>1d10</a></b>0 yards must pass an Average (+0) Athletics Test or gain the Prone Condition."
     },
     {
-      "name": "Aethyric Feedback",
-      "description": "Magic surges around you, causing fearsome stigmata. Everyone within a number of yards equal to your Willpower suffers 1 Wound and must make a Challenging(+0) Cool Test or take a Broken Condition. If there are no other creatures within this distance, you immediately suffer 2d10 Wounds."
+      "name": "Chaos Quake",
+      "description": "All creatures within <b><a class = 'chat-roll'>1d10</a></b>0 yards must pass an Average (+0) Athletics Test or gain the Prone Condition."
     },
     {
-      "name": "Aethyric Feedback",
-      "description": "Magic surges around you, causing fearsome stigmata. Everyone within a number of yards equal to your Willpower suffers 1 Wound and must make a Challenging(+0) Cool Test or take a Broken Condition. If there are no other creatures within this distance, you immediately suffer 2d10 Wounds."
+      "name": "Chaos Quake",
+      "description": "All creatures within <b><a class = 'chat-roll'>1d10</a></b>0 yards must pass an Average (+0) Athletics Test or gain the Prone Condition."
     },
     {
-      "name": "Aethyric Feedback",
-      "description": "Magic surges around you, causing fearsome stigmata. Everyone within a number of yards equal to your Willpower suffers 1 Wound and must make a Challenging(+0) Cool Test or take a Broken Condition. If there are no other creatures within this distance, you immediately suffer 2d10 Wounds."
+      "name": "Traitor's Heart",
+      "description": "The Dark Gods entice you to commit horrendous perfidy. Should you attack or otherwise betray an ally to the full extent of your capabilities, regain all Fortune points. If you cause another character to lose a Fate Point, gain +1 Fate Point."
+    },
+    {
+      "name": "Traitor's Heart",
+      "description": "The Dark Gods entice you to commit horrendous perfidy. Should you attack or otherwise betray an ally to the full extent of your capabilities, regain all Fortune points. If you cause another character to lose a Fate Point, gain +1 Fate Point."
+    },
+    {
+      "name": "Traitor's Heart",
+      "description": "The Dark Gods entice you to commit horrendous perfidy. Should you attack or otherwise betray an ally to the full extent of your capabilities, regain all Fortune points. If you cause another character to lose a Fate Point, gain +1 Fate Point."
+    },
+    {
+      "name": "Traitor's Heart",
+      "description": "The Dark Gods entice you to commit horrendous perfidy. Should you attack or otherwise betray an ally to the full extent of your capabilities, regain all Fortune points. If you cause another character to lose a Fate Point, gain +1 Fate Point."
+    },
+    {
+      "name": "Traitor's Heart",
+      "description": "The Dark Gods entice you to commit horrendous perfidy. Should you attack or otherwise betray an ally to the full extent of your capabilities, regain all Fortune points. If you cause another character to lose a Fate Point, gain +1 Fate Point."
     },
     {
       "name": "Foul Enfeeblement",
-      "description": "The Winds carry a strand of Chaos, choking your soul and bringing you to your knees. Gain 1 Corruption point, 1 Fatigued Condition, and the Prone condition."
+      "description": "Gain 1 Corruption point, the Prone Condition, and a Fatigued Condition"
     },
     {
       "name": "Foul Enfeeblement",
-      "description": "The Winds carry a strand of Chaos, choking your soul and bringing you to your knees. Gain 1 Corruption point, 1 Fatigued Condition, and the Prone condition."
+      "description": "Gain 1 Corruption point, the Prone Condition, and a Fatigued Condition"
     },
     {
       "name": "Foul Enfeeblement",
-      "description": "The Winds carry a strand of Chaos, choking your soul and bringing you to your knees. Gain 1 Corruption point, 1 Fatigued Condition, and the Prone condition."
+      "description": "Gain 1 Corruption point, the Prone Condition, and a Fatigued Condition"
     },
     {
       "name": "Foul Enfeeblement",
-      "description": "The Winds carry a strand of Chaos, choking your soul and bringing you to your knees. Gain 1 Corruption point, 1 Fatigued Condition, and the Prone condition."
+      "description": "Gain 1 Corruption point, the Prone Condition, and a Fatigued Condition"
     },
     {
       "name": "Foul Enfeeblement",
-      "description": "The Winds carry a strand of Chaos, choking your soul and bringing you to your knees. Gain 1 Corruption point, 1 Fatigued Condition, and the Prone condition."
+      "description": "Gain 1 Corruption point, the Prone Condition, and a Fatigued Condition"
     },
     {
-      "name": "Double Trouble",
-      "description": "The Winds whisk away your spell"
+      "name": "Hellish Stench",
+      "description": "You now smell really bad! You gain the Distracting Creature Trait (see page 339), and probably the enmity of anyone with a sense of smell. This lasts for <b><a class = 'chat-roll'>1d10</a></b> hours."
     },
     {
-      "name": "Double Trouble",
-      "description": "The Winds whisk away your spell"
+      "name": "Hellish Stench",
+      "description": "You now smell really bad! You gain the Distracting Creature Trait (see page 339), and probably the enmity of anyone with a sense of smell. This lasts for <b><a class = 'chat-roll'>1d10</a></b> hours."
     },
     {
-      "name": "Double Trouble",
-      "description": "The Winds whisk away your spell"
+      "name": "Hellish Stench",
+      "description": "You now smell really bad! You gain the Distracting Creature Trait (see page 339), and probably the enmity of anyone with a sense of smell. This lasts for <b><a class = 'chat-roll'>1d10</a></b> hours."
     },
     {
-      "name": "Double Trouble",
-      "description": "The Winds whisk away your spell"
+      "name": "Hellish Stench",
+      "description": "You now smell really bad! You gain the Distracting Creature Trait (see page 339), and probably the enmity of anyone with a sense of smell. This lasts for <b><a class = 'chat-roll'>1d10</a></b> hours."
     },
     {
-      "name": "Double Trouble",
-      "description": "The Winds whisk away your spell"
+      "name": "Hellish Stench",
+      "description": "You now smell really bad! You gain the Distracting Creature Trait (see page 339), and probably the enmity of anyone with a sense of smell. This lasts for <b><a class = 'chat-roll'>1d10</a></b> hours."
     },
     {
-      "name": "Storm of Chaos",
-      "description": "Roll on the Minor Miscast table. You and the <b><a class = 'chat-roll'>1d10</a></b> nearest creatures suffer this effect."
+      "name": "Power Drain",
+      "description": "You are unable to use the Talent used to cast the spell (usually Arcane Magic , though it could be Chaos Magic , or a similar Talent), for <b><a class = 'chat-roll'>1d10</a></b> minutes."
     },
     {
-      "name": "Storm of Chaos",
-      "description": "Roll on the Minor Miscast table. You and the <b><a class = 'chat-roll'>1d10</a></b> nearest creatures suffer this effect."
+      "name": "Power Drain",
+      "description": "You are unable to use the Talent used to cast the spell (usually Arcane Magic , though it could be Chaos Magic , or a similar Talent), for <b><a class = 'chat-roll'>1d10</a></b> minutes."
     },
     {
-      "name": "Storm of Chaos",
-      "description": "Roll on the Minor Miscast table. You and the <b><a class = 'chat-roll'>1d10</a></b> nearest creatures suffer this effect."
+      "name": "Power Drain",
+      "description": "You are unable to use the Talent used to cast the spell (usually Arcane Magic , though it could be Chaos Magic , or a similar Talent), for <b><a class = 'chat-roll'>1d10</a></b> minutes."
     },
     {
-      "name": "Storm of Chaos",
-      "description": "Roll on the Minor Miscast table. You and the <b><a class = 'chat-roll'>1d10</a></b> nearest creatures suffer this effect."
+      "name": "Power Drain",
+      "description": "You are unable to use the Talent used to cast the spell (usually Arcane Magic , though it could be Chaos Magic , or a similar Talent), for <b><a class = 'chat-roll'>1d10</a></b> minutes."
     },
     {
-      "name": "Storm of Chaos",
-      "description": "Roll on the Minor Miscast table. You and the <b><a class = 'chat-roll'>1d10</a></b> nearest creatures suffer this effect."
+      "name": "Power Drain",
+      "description": "You are unable to use the Talent used to cast the spell (usually Arcane Magic , though it could be Chaos Magic , or a similar Talent), for <b><a class = 'chat-roll'>1d10</a></b> minutes."
     },
     {
-      "name": "Trick of Fate",
-      "description": "Roll on the Catastrophic table instead."
+      "name": "Aethyric Feedback",
+      "description": "Everyone within a number of yards equal to your Willpower Bonus — friend and foe alike — suffers <b><a class = 'chat-roll'>1d10</a></b> wounds, ignoring Toughness Bonus and Armour Points, and receives the Prone Condition. If there are no targets in range, the magic has nowhere to vent, so your head explodes, killing you instantly."
     },
     {
-      "name": "Trick of Fate",
-      "description": "Roll on the Catastrophic table instead."
+      "name": "Aethyric Feedback",
+      "description": "Everyone within a number of yards equal to your Willpower Bonus — friend and foe alike — suffers <b><a class = 'chat-roll'>1d10</a></b> wounds, ignoring Toughness Bonus and Armour Points, and receives the Prone Condition. If there are no targets in range, the magic has nowhere to vent, so your head explodes, killing you instantly."
     },
     {
-      "name": "Trick of Fate",
-      "description": "Roll on the Catastrophic table instead."
+      "name": "Aethyric Feedback",
+      "description": "Everyone within a number of yards equal to your Willpower Bonus — friend and foe alike — suffers <b><a class = 'chat-roll'>1d10</a></b> wounds, ignoring Toughness Bonus and Armour Points, and receives the Prone Condition. If there are no targets in range, the magic has nowhere to vent, so your head explodes, killing you instantly."
     },
     {
-      "name": "Trick of Fate",
-      "description": "Roll on the Catastrophic table instead."
+      "name": "Aethyric Feedback",
+      "description": "Everyone within a number of yards equal to your Willpower Bonus — friend and foe alike — suffers <b><a class = 'chat-roll'>1d10</a></b> wounds, ignoring Toughness Bonus and Armour Points, and receives the Prone Condition. If there are no targets in range, the magic has nowhere to vent, so your head explodes, killing you instantly."
     },
     {
-      "name": "Trick of Fate",
-      "description": "Roll on the Catastrophic table instead."
+      "name": "Aethyric Feedback",
+      "description": "Everyone within a number of yards equal to your Willpower Bonus — friend and foe alike — suffers <b><a class = 'chat-roll'>1d10</a></b> wounds, ignoring Toughness Bonus and Armour Points, and receives the Prone Condition. If there are no targets in range, the magic has nowhere to vent, so your head explodes, killing you instantly."
     }
   ]
 }
