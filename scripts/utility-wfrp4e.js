@@ -1,15 +1,58 @@
-
-
 class WFRP_Utility
 {
+
+  static _propertyText(property)
+  {
+    let properties = mergeObject(WFRP_Utility.qualityList(), WFRP_Utility.flawList());
+    let propertyDescr = Object.assign(duplicate(CONFIG.qualityDescriptions), CONFIG.flawDescriptions);
+    let propertyKey;
+    property = property.replace(/,/g, '').trim();
+    let propertyDescription
+
+    if (property.includes("("))
+    {
+      propertyKey = WFRP_Utility.findKey(property.split(" ")[0], properties)
+      let property2 =property.substring(property.indexOf("(")+1, property.indexOf(")"), properties)
+      let propertyKey2 = WFRP_Utility.findKey(property2, properties)
+      propertyDescription = `<b>${property}:</b><br>${propertyDescr[propertyKey]}<br><br><b>${property2}: </b>${propertyDescr[propertyKey2]}`;
+    }
+    else
+    {
+      propertyKey = WFRP_Utility.findKey(property.split(" ")[0], properties)
+      propertyDescription = `<b>${property}:</b><br>${propertyDescr[propertyKey]}`;
+    }
+    propertyDescription = propertyDescription.replace("(Rating)", property.split(" ")[1])
+    return propertyDescription;
+  }
+
+  static async _overcastSpell(event, actor)
+  {
+    let spell = actor.getOwnedItem($(event.currentTarget).parents(".item").attr("data-item-id"))
+
+    let overcastType = $(event.currentTarget).attr("data-overcast-type")
+
+    if (!spell.data.data.overcast)
+      await spell.update({"data.overcast" :  {range : 0, target: 0, duration: 0}})
+
+    let currentOvercast = spell.data.data.overcast;
+    if (event.button == 2)
+      currentOvercast[overcastType] = currentOvercast[overcastType] <= 0 ? 0 : currentOvercast[overcastType] - 1;
+    else
+      currentOvercast[overcastType]++;
+    await spell.update({"data.overcast" : currentOvercast})
+  
+  }
+
   static _prepareSpellOrPrayer(actorData, item) {
-    item['target'] = this._calculateSpellRangeOrDuration(actorData, item.data.target.value, item.data.target.aoe);
-    item['duration'] = this._calculateSpellRangeOrDuration(actorData, item.data.duration.value);
+    if (!item.data.overcast)
+      item.data.overcast = {target: 0, range : 0, duration: 0};
+    item['target'] = this._calculateSpellRangeOrDuration(actorData, item.data.target.value, item.data.target.aoe, item.data.overcast.target);
+    item['duration'] = this._calculateSpellRangeOrDuration(actorData, item.data.duration.value, false, item.data.overcast.duration);
     if (item.data.duration.extendable)
     {
       item.duration += "+";
     }
-    item['range'] = this._calculateSpellRangeOrDuration(actorData, item.data.range.value);
+    item['range'] = this._calculateSpellRangeOrDuration(actorData, item.data.range.value, false, item.data.overcast.range);
     if (item.type == "spell")
       item['damage'] = this._calculateSpellDamage(actorData, item.data.damage.value, item.data.magicMissile.value);
     else
@@ -20,6 +63,9 @@ class WFRP_Utility
       item.data.description.value = this._spellDescription(item);
       if (!item.data.memorized.value )
         item.data.cn.value *= 2;
+
+      for (let type in item.data.overcast)
+        item.data.cn.value += 2 * item.data.overcast[type];
     }
 
     return item;
@@ -381,7 +427,7 @@ class WFRP_Utility
 
   /* -------------------------------------------- */
 
-  static _calculateSpellRangeOrDuration(actorData, formula, aoe=false){
+  static _calculateSpellRangeOrDuration(actorData, formula, aoe=false, overcasts = 0){
     formula = formula.toLowerCase();
 
     if (formula != "you" && formula != "special" && formula != "instant")
@@ -401,7 +447,21 @@ class WFRP_Utility
           }
         }
       }
+      if (overcasts)
+      {
+        let formulaArray = formula.split(" ");
+        if (Number.isNumeric(formulaArray[0]))
+        {
+          try 
+          {
+            formulaArray[0] = Number(formulaArray[0]) + (Number(formulaArray[0])) * overcasts;
+            formula = formulaArray.join(" ");
+          }
+          catch {}
+        }
+      }
     }
+
 
     if (aoe)
       formula = "AoE (" + formula.capitalize() + ")";
